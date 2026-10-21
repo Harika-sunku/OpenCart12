@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-21T21:56:18 IST" name="Suite" finished-at="2026-10-21T21:56:43 IST" duration-ms="25023">
+    <groups>
+    </groups>
+    <test started-at="2026-10-21T21:56:18 IST" name="Test" finished-at="2026-10-21T21:56:43 IST" duration-ms="25023">
+      <class name="testCases.Tc_AccountRegistartionTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_AccountRegistartionTest@1189dd52]" started-at="2026-10-21T21:56:19 IST" name="setup" finished-at="2026-10-21T21:56:34 IST" duration-ms="15310" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_account_registration()[pri:0, instance:testCases.Tc_AccountRegistartionTest@1189dd52]" started-at="2026-10-21T21:56:35 IST" name="verify_account_registration" finished-at="2026-10-21T21:56:41 IST" duration-ms="6291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Tc_AccountRegistartionTest@1189dd52]" started-at="2026-10-21T21:56:41 IST" name="tearDown" finished-at="2026-10-21T21:56:43 IST" duration-ms="1582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Tc_AccountRegistartionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

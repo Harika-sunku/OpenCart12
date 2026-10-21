@@ -1,0 +1,2 @@
+cd C:/Users/harik/eclipse-workspace/OpenCart12
+mvn clean test
